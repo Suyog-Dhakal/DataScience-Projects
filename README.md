@@ -1,2 +1,5 @@
-## DataScience-Projects
-repository of analysis of different types of datasets 
+
+# Data Science Projects
+
+Repository of Data Science Projects implemented in Jupyter Notebook
+
